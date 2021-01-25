@@ -1,5 +1,15 @@
 # Papers of Point Cloud
 
+## Datasets
+
+* ModelNet10
+* ModelNet40
+* ShapeNetPart
+* S3DIS
+* KITTI
+* SHREC15
+* ScanNet
+
 ## Classification or Segmentation
 
 * [2017 CVPR] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [Paper](https://arxiv.org/pdf/1612.00593) [Code1](https://github.com/charlesq34/pointnet) [Code2](https://github.com/fxia22/pointnet.pytorch)

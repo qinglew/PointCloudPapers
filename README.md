@@ -7,7 +7,7 @@
 * [2017 CVPR] Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs [Paper](https://arxiv.org/pdf/1704.02901.pdf) [Code](https://github.com/mys007/ecc)
 * [2017 CVPR] Dynamic Filters in Graph Convolutional Networks [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Simonovsky_Dynamic_Edge-Conditioned_Filters_CVPR_2017_paper.pdf)
 * [2018 NIPS] PointCNN：Convolution On X-Transformed Points [Paper](https://arxiv.org/pdf/1801.07791.pdf) [Code](https://github.com/yangyanli/PointCNN)
-* [2018 CVPR] SO-Net：Self-Organizing Network for Point Cloud Analysis [Paper](https://arxiv.org/pdf/1803.04249.pdf) [Code](https://arxiv.org/pdf/1803.04249.pdf)
+* [2018 CVPR] SO-Net：Self-Organizing Network for Point Cloud Analysis [Paper](https://arxiv.org/pdf/1803.04249.pdf) [Code](https://github.com/lijx10/SO-Net)
 * [2019 CVPR] DGCNN: Dynamic Graph CNN for Learning on Point Clouds [Paper](https://arxiv.org/pdf/1801.07829.pdf) [Code](https://github.com/WangYueFt/dgcnn)
 * [2019 CVPR] PointConv：Deep Convolutional Networks on 3D Point Clouds [Paper](https://arxiv.org/pdf/1811.07246.pdf) [Code1](https://github.com/DylanWusee/pointconv) [Code2](https://github.com/DylanWusee/pointconv_pytorch)
 * [2019 CVPR] PointWeb：Enhancing Local Neighborhood Features for Point Cloud Processing [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_PointWeb_Enhancing_Local_Neighborhood_Features_for_Point_Cloud_Processing_CVPR_2019_paper.pdf) [Code](https://github.com/hszhao/PointWeb)

@@ -9,3 +9,4 @@
 ## Completion
 
 * [CVPR 2020] PF-Net: Point Fractal Network for 3D Point Cloud Completion [Paper](https://arxiv.org/pdf/2003.00410.pdf) [Code](https://github.com/zztianzz/PF-Net-Point-Fractal-Network)
+* [CVPR 2020] Morphing and Sampling Network for Dense Point Cloud Completion [Paper](https://arxiv.org/pdf/1912.00280.pdf) [Code](https://github.com/Colin97/MSN-Point-Cloud-Completion)

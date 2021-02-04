@@ -35,6 +35,7 @@
 * [2018 CVPR] AtlasNet：A Papier-Mache Approach to Learning 3D Surface Generation [Paper](https://arxiv.org/pdf/1802.05384.pdf) [Code](https://github.com/ThibaultGROUEIX/AtlasNet)
 * [2018 3DN] PCN：Point Completion Network [Paper](https://arxiv.org/pdf/1808.00671.pdf) [Code](https://github.com/wentaoyuan/pcn)
 * [2019 CVPR] 3D Point Capsule Networks [Paper](https://arxiv.org/pdf/1812.10775.pdf) [Code](https://github.com/yongheng1991/3D-point-capsule-networks)
+* [2019 CVPR] TopNet: Structural Point Cloud Decoder [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf) [Code](https://github.com/lynetcha/completion3d)
 * [2020 CVPR] PF-Net: Point Fractal Network for 3D Point Cloud Completion [Paper](https://arxiv.org/pdf/2003.00410.pdf) [Code](https://github.com/zztianzz/PF-Net-Point-Fractal-Network)
 * [2020 CVPR] Morphing and Sampling Network for Dense Point Cloud Completion [Paper](https://arxiv.org/pdf/1912.00280.pdf) [Code](https://github.com/Colin97/MSN-Point-Cloud-Completion)
 * [2020 CVPR] Cascaded Refinement Network for Point Cloud Completion [Paper](https://arxiv.org/pdf/2004.03327.pdf) [Code](https://github.com/xiaogangw/cascaded-point-completion)

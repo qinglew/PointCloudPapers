@@ -39,6 +39,7 @@
 * [2020 CVPR] PF-Net: Point Fractal Network for 3D Point Cloud Completion [Paper](https://arxiv.org/pdf/2003.00410.pdf) [Code](https://github.com/zztianzz/PF-Net-Point-Fractal-Network)
 * [2020 CVPR] Morphing and Sampling Network for Dense Point Cloud Completion [Paper](https://arxiv.org/pdf/1912.00280.pdf) [Code](https://github.com/Colin97/MSN-Point-Cloud-Completion)
 * [2020 CVPR] Cascaded Refinement Network for Point Cloud Completion [Paper](https://arxiv.org/pdf/2004.03327.pdf) [Code](https://github.com/xiaogangw/cascaded-point-completion)
+* [2020 ECCV] Detail Preserved Point Cloud Completion via Separated Feature Aggregation [Paper](https://arxiv.org/pdf/2007.02374.pdf) [Code](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
 
 ## 3D Object Detection
 

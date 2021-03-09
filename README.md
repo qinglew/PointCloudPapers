@@ -2,7 +2,6 @@
 
 ## Datasets
 
-* ModelNet10
 * ModelNet40
 * ShapeNetPart
 * S3DIS
@@ -24,6 +23,7 @@
 * [2019 CVPR] Relation-Shape Convolutional Neural Network for Point Cloud Analysis [Paper](https://arxiv.org/pdf/1904.07601.pdf) [Code](https://github.com/Yochengliu/Relation-Shape-CNN)
 * [2019 ICCV] KPConv：Flexible and Deformable Convolution for Point Clouds [Paper](https://arxiv.org/pdf/1904.08889.pdf) [Code](https://github.com/HuguesTHOMAS/KPConv)
 * [2020 CVPR] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds [Paper](https://arxiv.org/pdf/2003.12971.pdf) [Code](https://github.com/raoyongming/PointGLR)
+* [2020] Point Cloud Transformer [Paper](https://arxiv.org/pdf/2012.09688) [Code](https://github.com/MenghaoGuo/PCT)
 
 ## Upsampling
 
@@ -39,7 +39,9 @@
 * [2020 CVPR] PF-Net: Point Fractal Network for 3D Point Cloud Completion [Paper](https://arxiv.org/pdf/2003.00410.pdf) [Code](https://github.com/zztianzz/PF-Net-Point-Fractal-Network)
 * [2020 CVPR] Morphing and Sampling Network for Dense Point Cloud Completion [Paper](https://arxiv.org/pdf/1912.00280.pdf) [Code](https://github.com/Colin97/MSN-Point-Cloud-Completion)
 * [2020 CVPR] Cascaded Refinement Network for Point Cloud Completion [Paper](https://arxiv.org/pdf/2004.03327.pdf) [Code](https://github.com/xiaogangw/cascaded-point-completion)
+* [2020 CVPR] Point Cloud Completion by Skip-attention Network with Hierarchical Folding [Paper](https://arxiv.org/pdf/2005.03871) [Code](https://github.com/RaminHasibi/SA_Net)
 * [2020 ECCV] Detail Preserved Point Cloud Completion via Separated Feature Aggregation [Paper](https://arxiv.org/pdf/2007.02374.pdf) [Code](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
+* [2020 ECCV] GRNet: Gridding Residual Network for Dense Point Cloud Completion [Paper](https://arxiv.org/pdf/2006.03761.pdf) [Code](https://github.com/hzxie/GRNet)
 
 ## 3D Object Detection
 

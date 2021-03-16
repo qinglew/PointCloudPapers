@@ -46,3 +46,4 @@
 ## 3D Object Detection
 
 * [2018 CVPR] Frustum PointNets for 3D Object Detection from RGB-D Data [Paper](https://arxiv.org/pdf/1711.08488.pdf) [Code](https://github.com/charlesq34/frustum-pointnets)
+* [2021 AAAI] PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection [Paper](https://arxiv.org/pdf/2012.10412)

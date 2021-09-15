@@ -35,6 +35,7 @@
 
 ## Generation
 
+* [2018 ICML] Learning Representations and Generative Models for 3D Point Clouds [Paper](https://arxiv.org/abs/1707.02392) [Code](https://github.com/optas/latent_3d_points)
 * [2018 CVPR] FoldingNet：Point Cloud Auto-encoder via Deep Grid Deformation [Paper](https://arxiv.org/pdf/1712.07262.pdf) [Code](https://github.com/AnTao97/UnsupervisedPointCloudReconstruction)
 * [2019 CVPR] 3D Point Capsule Networks [Paper](https://arxiv.org/pdf/1812.10775.pdf) [Code](https://github.com/yongheng1991/3D-point-capsule-networks)
 * [ICCV 2019] 3D Point Cloud Generative Adversarial Network Based onTree Structured Graph Convolutions [Paper](https://arxiv.org/abs/1905.06292)

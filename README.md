@@ -57,6 +57,7 @@
 * [2021 CVPR] Variational Relational Point Completion Network [Paper](https://arxiv.org/abs/2104.10154) [Code](https://github.com/paul007pl/VRCNet)
 * [2021 CVPR] Denoise and Contrast for Category Agnostic Shape Completion [Paper](https://arxiv.org/abs/2103.16671) [Code](https://github.com/antoalli/Deco)
 * [2021 CVPR] Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding [Paper](https://arxiv.org/abs/2103.07838) [Code](https://github.com/diviswen/Cycle4Completion)
+* [2021 CVPR] Unsupervised 3D Shape Completion through GAN Inversion [Paper](https://arxiv.org/abs/2104.13366) [Code](https://github.com/junzhezhang/shape-inversion)
 * [2021 CVPR] View-Gauided Point Cloud Completion [Paper](https://arxiv.org/abs/2104.05666)
 * [2021 ICCV] PoinTr: Diverse Piont Cloud Completion with Geometry-Aware Transformers [Paper](https://arxiv.org/abs/2108.08839) [Code](https://github.com/yuxumin/PoinTr)
 * [2021 ICCV] SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer [Paper](https://arxiv.org/abs/2108.04444) [Code](https://github.com/allenxiangx/snowflakenet)

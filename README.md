@@ -38,13 +38,18 @@
 * [2018 ICML] Learning Representations and Generative Models for 3D Point Clouds [Paper](https://arxiv.org/abs/1707.02392) [Code](https://github.com/optas/latent_3d_points)
 * [2018 CVPR] FoldingNet：Point Cloud Auto-encoder via Deep Grid Deformation [Paper](https://arxiv.org/pdf/1712.07262.pdf) [Code](https://github.com/AnTao97/UnsupervisedPointCloudReconstruction)
 * [2019 CVPR] 3D Point Capsule Networks [Paper](https://arxiv.org/pdf/1812.10775.pdf) [Code](https://github.com/yongheng1991/3D-point-capsule-networks)
-* [ICCV 2019] 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions [Paper](https://arxiv.org/abs/1905.06292)
+* [2019 ICCV] 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions [Paper](https://arxiv.org/abs/1905.06292)
+* [2019 ICCV] PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows [Paper](https://arxiv.org/abs/2103.06564) [Code](https://github.com/lxtGH/PFSegNets)
+* [2020 ECCV] Discrete Point Flow Networks for Efficient Point Cloud Generation [Paper](https://arxiv.org/abs/2007.10170) [Code](https://github.com/Regenerator/dpf-nets)
+* [2020 NIPS] SoftFlow: Probabilistic Framework for Normalizing Flow on Manifolds [Paper](https://arxiv.org/abs/2006.04604) [Code](https://github.com/ANLGBOY/SoftFlow)
+* [2021 CVPR] Diffusion Probabilistic Models for 3D Point Cloud Generation [Paper](https://arxiv.org/abs/2103.01458) [Code](https://github.com/luost26/diffusion-point-cloud)
 
 ## Completion
 
 <!-- * [2018 CVPR] AtlasNet：A Papier-Mache Approach to Learning 3D Surface Generation [Paper](https://arxiv.org/pdf/1802.05384.pdf) [Code](https://github.com/ThibaultGROUEIX/AtlasNet) -->
 * [2018 3DN] PCN：Point Completion Network [Paper](https://arxiv.org/pdf/1808.00671.pdf) [Code](https://github.com/wentaoyuan/pcn)
 * [2019 CVPR] TopNet: Structural Point Cloud Decoder [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf) [Code](https://github.com/lynetcha/completion3d)
+* [2020 IROS] ECG: Edge-aware Point Cloud Completion with Graph Convolution [Paper](http://ras.papercept.net/images/temp/IROS/files/2954.pdf)
 * [2020 CVPR] PF-Net: Point Fractal Network for 3D Point Cloud Completion [Paper](https://arxiv.org/pdf/2003.00410.pdf) [Code](https://github.com/zztianzz/PF-Net-Point-Fractal-Network)
 * [2020 CVPR] Morphing and Sampling Network for Dense Point Cloud Completion [Paper](https://arxiv.org/pdf/1912.00280.pdf) [Code](https://github.com/Colin97/MSN-Point-Cloud-Completion)
 * [2020 CVPR] Cascaded Refinement Network for Point Cloud Completion [Paper](https://arxiv.org/pdf/2004.03327.pdf) [Code](https://github.com/xiaogangw/cascaded-point-completion)
@@ -61,6 +66,7 @@
 * [2021 CVPR] View-Gauided Point Cloud Completion [Paper](https://arxiv.org/abs/2104.05666)
 * [2021 ICCV] PoinTr: Diverse Piont Cloud Completion with Geometry-Aware Transformers [Paper](https://arxiv.org/abs/2108.08839) [Code](https://github.com/yuxumin/PoinTr)
 * [2021 ICCV] SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer [Paper](https://arxiv.org/abs/2108.04444) [Code](https://github.com/allenxiangx/snowflakenet)
+* [2021 ArXiv] MFM-Net: Unpaired Shape Completion Network with Multi-stage Feature Matching [Paper](https://arxiv.org/abs/2111.11976)
 
 ## 3D Object Detection
 

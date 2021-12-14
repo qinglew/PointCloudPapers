@@ -40,6 +40,7 @@
 
 * [PCN](https://drive.google.com/drive/folders/1M_lJN14Ac1RtPtEQxNlCV9e8pom3U6Pa)
 * [Completion3D](https://completion3d.stanford.edu/)
+* [MVP](https://github.com/paul007pl/MVP_Benchmark/tree/main/completion)
 * [PCL2PCL (code: npaj)](https://pan.baidu.com/share/init?surl=jDJJ6RjRpuXpu5GSJcPQmg)
 * [KITTI (code: npaj)](https://pan.baidu.com/share/init?surl=jDJJ6RjRpuXpu5GSJcPQmg)
 * [ScanNet (code: npaj)](https://pan.baidu.com/share/init?surl=jDJJ6RjRpuXpu5GSJcPQmg)

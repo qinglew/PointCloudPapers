@@ -46,6 +46,8 @@
 
 ## Completion
 
+### Paired
+
 <!-- * [2018 CVPR] AtlasNet：A Papier-Mache Approach to Learning 3D Surface Generation [Paper](https://arxiv.org/pdf/1802.05384.pdf) [Code](https://github.com/ThibaultGROUEIX/AtlasNet) -->
 * [2018 3DN] PCN：Point Completion Network [Paper](https://arxiv.org/pdf/1808.00671.pdf) [Code](https://github.com/wentaoyuan/pcn)
 * [2019 CVPR] TopNet: Structural Point Cloud Decoder [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf) [Code](https://github.com/lynetcha/completion3d)
@@ -56,16 +58,19 @@
 * [2020 CVPR] Point Cloud Completion by Skip-attention Network with Hierarchical Folding [Paper](https://arxiv.org/pdf/2005.03871) [Code](https://github.com/RaminHasibi/SA_Net)
 * [2020 ECCV] Detail Preserved Point Cloud Completion via Separated Feature Aggregation [Paper](https://arxiv.org/pdf/2007.02374.pdf) [Code](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
 * [2020 ECCV] GRNet: Gridding Residual Network for Dense Point Cloud Completion [Paper](https://arxiv.org/pdf/2006.03761.pdf) [Code](https://github.com/hzxie/GRNet)
-* [2020 ICLR] Unpaired Point Cloud Completion on Real Scans Using Adversarial Training [Paper](https://arxiv.org/abs/1904.00069) [Code](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
 * [2021 AAAI] ASHF-Net：Adaptive Sampling and Hierarchical Folding Network for RobustPoint Cloud Completion [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16478/16285)
 * [2021 CVPR] PMP-Net: Point Cloud Completion by Learning Multi-step Point Moving Paths [Papre](https://arxiv.org/abs/2012.03408) [Code](https://github.com/diviswen/PMP-Net)
 * [2021 CVPR] Variational Relational Point Completion Network [Paper](https://arxiv.org/abs/2104.10154) [Code](https://github.com/paul007pl/VRCNet)
 * [2021 CVPR] Denoise and Contrast for Category Agnostic Shape Completion [Paper](https://arxiv.org/abs/2103.16671) [Code](https://github.com/antoalli/Deco)
-* [2021 CVPR] Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding [Paper](https://arxiv.org/abs/2103.07838) [Code](https://github.com/diviswen/Cycle4Completion)
-* [2021 CVPR] Unsupervised 3D Shape Completion through GAN Inversion [Paper](https://arxiv.org/abs/2104.13366) [Code](https://github.com/junzhezhang/shape-inversion)
 * [2021 CVPR] View-Gauided Point Cloud Completion [Paper](https://arxiv.org/abs/2104.05666)
 * [2021 ICCV] PoinTr: Diverse Piont Cloud Completion with Geometry-Aware Transformers [Paper](https://arxiv.org/abs/2108.08839) [Code](https://github.com/yuxumin/PoinTr)
 * [2021 ICCV] SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer [Paper](https://arxiv.org/abs/2108.04444) [Code](https://github.com/allenxiangx/snowflakenet)
+
+### Unpaired
+
+* [2020 ICLR] Unpaired Point Cloud Completion on Real Scans Using Adversarial Training [Paper](https://arxiv.org/abs/1904.00069) [Code](https://github.com/xuelin-chen/pcl2pcl-gan-pub)
+* [2021 CVPR] Unsupervised 3D Shape Completion through GAN Inversion [Paper](https://arxiv.org/abs/2104.13366) [Code](https://github.com/junzhezhang/shape-inversion)
+* [2021 CVPR] Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding [Paper](https://arxiv.org/abs/2103.07838) [Code](https://github.com/diviswen/Cycle4Completion)
 * [2021 ArXiv] MFM-Net: Unpaired Shape Completion Network with Multi-stage Feature Matching [Paper](https://arxiv.org/abs/2111.11976)
 
 ## 3D Object Detection

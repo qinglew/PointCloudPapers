@@ -1,15 +1,5 @@
 # Papers of Point Cloud
 
-## Datasets
-
-* ModelNet40
-* ShapeNet
-* S3DIS
-* KITTI
-* SHREC15
-* ScanNet
-* Completion3D
-
 ## Classification, Segmentation or Representation Learning
 
 * [2017 CVPR] PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation [Paper](https://arxiv.org/pdf/1612.00593) [Code1](https://github.com/charlesq34/pointnet) [Code2](https://github.com/fxia22/pointnet.pytorch)
@@ -45,6 +35,15 @@
 * [2021 CVPR] Diffusion Probabilistic Models for 3D Point Cloud Generation [Paper](https://arxiv.org/abs/2103.01458) [Code](https://github.com/luost26/diffusion-point-cloud)
 
 ## Completion
+
+## Dataset
+
+* PCN
+* Completion3D
+* PCL2PCL
+* KITTI
+* ScanNet
+* Materport3D
 
 ### Paired
 

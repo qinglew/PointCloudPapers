@@ -15,7 +15,7 @@
 * [2019 ICCV] KPConv: Flexible and Deformable Convolution for Point Clouds [Paper](https://arxiv.org/pdf/1904.08889.pdf) [Code](https://github.com/HuguesTHOMAS/KPConv)
 * [2020 CVPR] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds [Paper](https://arxiv.org/pdf/2003.12971.pdf) [Code](https://github.com/raoyongming/PointGLR)
 * [2020 CVPR] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling [Paper](https://arxiv.org/abs/2003.00492) [Code](https://github.com/yanx27/PointASNL)
-* [2020 IJCVM] Point Cloud Transformer [Paper](https://arxiv.org/pdf/2012.09688) [Code](https://github.com/MenghaoGuo/PCT)
+* [2020 CVM] Point Cloud Transformer [Paper](https://arxiv.org/pdf/2012.09688) [Code](https://github.com/MenghaoGuo/PCT)
 * [2021 ICCV] Point Transformer [Paper](https://arxiv.org/abs/2012.09164) [Code](https://github.com/lucidrains/point-transformer-pytorch)
 
 ## Upsampling

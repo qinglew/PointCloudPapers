@@ -65,6 +65,7 @@
 * [2021 CVPR] View-Gauided Point Cloud Completion [Paper](https://arxiv.org/abs/2104.05666)
 * [2021 ICCV] PoinTr: Diverse Piont Cloud Completion with Geometry-Aware Transformers [Paper](https://arxiv.org/abs/2108.08839) [Code](https://github.com/yuxumin/PoinTr)
 * [2021 ICCV] SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer [Paper](https://arxiv.org/abs/2108.04444) [Code](https://github.com/allenxiangx/snowflakenet)
+* [2021 ACM MM] ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion [Paper](https://arxiv.org/abs/2104.09587)
 * [2022 AAAI] Attention-based Transformation from Latent Features to Point Clouds [Paper](https://arxiv.org/abs/2112.05324)
 
 ### Unpaired

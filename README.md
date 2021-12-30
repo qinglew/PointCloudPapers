@@ -33,6 +33,7 @@
 * [2020 ECCV] Discrete Point Flow Networks for Efficient Point Cloud Generation [Paper](https://arxiv.org/abs/2007.10170) [Code](https://github.com/Regenerator/dpf-nets)
 * [2020 NIPS] SoftFlow: Probabilistic Framework for Normalizing Flow on Manifolds [Paper](https://arxiv.org/abs/2006.04604) [Code](https://github.com/ANLGBOY/SoftFlow)
 * [2021 CVPR] Diffusion Probabilistic Models for 3D Point Cloud Generation [Paper](https://arxiv.org/abs/2103.01458) [Code](https://github.com/luost26/diffusion-point-cloud)
+* [2021 ICCV] 3D Shape Generation and Completion through Point-Voxel Diffusion [Paper](https://arxiv.org/abs/2104.03670)
 
 ## Completion
 

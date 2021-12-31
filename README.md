@@ -13,6 +13,7 @@
 * [2019 CVPR] PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_PointWeb_Enhancing_Local_Neighborhood_Features_for_Point_Cloud_Processing_CVPR_2019_paper.pdf) [Code](https://github.com/hszhao/PointWeb)
 * [2019 CVPR] Relation-Shape Convolutional Neural Network for Point Cloud Analysis [Paper](https://arxiv.org/pdf/1904.07601.pdf) [Code](https://github.com/Yochengliu/Relation-Shape-CNN)
 * [2019 ICCV] KPConv: Flexible and Deformable Convolution for Point Clouds [Paper](https://arxiv.org/pdf/1904.08889.pdf) [Code](https://github.com/HuguesTHOMAS/KPConv)
+* [2019 NIPS] Point-Voxel CNN for Efficient 3D Deep Learning [Paper](https://arxiv.org/1907.03739) [Code](https://github.com/mit-han-lab/pvcnn)
 * [2020 CVPR] Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds [Paper](https://arxiv.org/pdf/2003.12971.pdf) [Code](https://github.com/raoyongming/PointGLR)
 * [2020 CVPR] PointASNL: Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling [Paper](https://arxiv.org/abs/2003.00492) [Code](https://github.com/yanx27/PointASNL)
 * [2020 CVM] Point Cloud Transformer [Paper](https://arxiv.org/pdf/2012.09688) [Code](https://github.com/MenghaoGuo/PCT)

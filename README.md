@@ -57,6 +57,7 @@
 * [2020 CVPR] Morphing and Sampling Network for Dense Point Cloud Completion [Paper](https://arxiv.org/pdf/1912.00280.pdf) [Code](https://github.com/Colin97/MSN-Point-Cloud-Completion)
 * [2020 CVPR] Cascaded Refinement Network for Point Cloud Completion [Paper](https://arxiv.org/pdf/2004.03327.pdf) [Code](https://github.com/xiaogangw/cascaded-point-completion)
 * [2020 CVPR] Point Cloud Completion by Skip-attention Network with Hierarchical Folding [Paper](https://arxiv.org/pdf/2005.03871) [Code](https://github.com/RaminHasibi/SA_Net)
+* [2020 NIPS] Skeleton-bridged Point Completion: From Global Inference to Local Adjustment [Paper](https://arxiv.org/abs/2010.07428)
 * [2020 ECCV] Detail Preserved Point Cloud Completion via Separated Feature Aggregation [Paper](https://arxiv.org/pdf/2007.02374.pdf) [Code](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
 * [2020 ECCV] GRNet: Gridding Residual Network for Dense Point Cloud Completion [Paper](https://arxiv.org/pdf/2006.03761.pdf) [Code](https://github.com/hzxie/GRNet)
 * [2021 AAAI] ASHF-Net: Adaptive Sampling and Hierarchical Folding Network for RobustPoint Cloud Completion [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16478/16285)
